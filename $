@@ -1,0 +1,4 @@
+#name: $
+#group: mootools
+# --
+\$("${1:selector}")${2:.}$0

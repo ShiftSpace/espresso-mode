@@ -1,0 +1,7 @@
+#name: event handler
+#group: mootools
+# --
+function(evt) {
+  evt = new Event(evt);
+  $0
+}${1:.bind(${2:bind})}

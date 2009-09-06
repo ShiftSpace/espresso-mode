@@ -1,6 +1,4 @@
 #name: object
 #group: javascript
 # --
-{
-  $0
-}
+{$0}

@@ -1,0 +1,6 @@
+#name: hash filter
+#group: mootools
+# --
+filter(${1:function(${2:value}, ${3:key}) {
+  $4
+}}, this)

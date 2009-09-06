@@ -1,0 +1,6 @@
+#name: array filter
+#group: mootools
+# --
+filter(${1:function(${2:value}, i) {
+  $3
+}}, this)

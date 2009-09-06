@@ -1,0 +1,4 @@
+#name: getElement
+#group: mootools
+# --
+getElement("${1:selector}")

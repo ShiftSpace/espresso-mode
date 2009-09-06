@@ -1,0 +1,6 @@
+#name: array map
+#group: mootools
+# --
+map(${1:function(${2:value}, i) {
+  $3
+}}, this)
