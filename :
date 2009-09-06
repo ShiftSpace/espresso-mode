@@ -1,0 +1,4 @@
+#name: new object property
+#group: javascript
+# --
+${1:key}: ${3:value}${2:,}

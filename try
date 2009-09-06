@@ -1,0 +1,11 @@
+#name: try ... catch
+#group: javascript
+# --
+try
+{
+  $1
+}
+catch(err)
+{
+  $0
+}

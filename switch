@@ -1,0 +1,9 @@
+#name: switch
+#group: javascript
+# --
+switch(${1:condition})
+{
+  $0
+  ${2:default:
+    break;}
+}

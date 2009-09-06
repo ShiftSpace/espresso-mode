@@ -1,0 +1,7 @@
+#name: new object property (function)
+#group: javascript
+# --
+${1:key}: function(${2:args})
+{
+  $0
+}${3:,}

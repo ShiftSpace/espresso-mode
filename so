@@ -1,0 +1,4 @@
+#name: setOptions
+#group: mootools
+# --
+setOptions(${1:defaults}, ${2:options})
