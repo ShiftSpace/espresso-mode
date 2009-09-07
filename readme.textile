@@ -1,9 +1,6 @@
 h1. Espresso-Mode
 
-These are a collection of useful snippets for Emacs users working with
-JavaScript, MooTools and ShiftSpace. You'll need to have installed
-espresso.el from "here":http://www.nongnu.org/espresso/, as well as
-yasnippet from "here":http://code.google.com/p/yasnippet/.
+These are a collection of useful snippets for Emacs users working with JavaScript, MooTools and ShiftSpace. You'll need to have installed
+espresso.el from "here":http://www.nongnu.org/espresso/, as well as yasnippet from "here":http://code.google.com/p/yasnippet/.
 
-If you're not familiar with snippets you should read about them 
-"here":http://yasnippet.googlecode.com/svn/trunk/doc/index.html
+If you're not familiar with snippets you should read about them "here":http://yasnippet.googlecode.com/svn/trunk/doc/index.html
