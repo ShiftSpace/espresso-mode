@@ -1,0 +1,4 @@
+# name: SSPostNotification
+# group: shiftspace
+# --
+SSPostNotification("${1:name}", ${2:data});

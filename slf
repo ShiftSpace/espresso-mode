@@ -1,0 +1,4 @@
+# name: SSLog force
+# group: shiftspace
+# --
+SSLog(${1:args}, SSLogForce);
