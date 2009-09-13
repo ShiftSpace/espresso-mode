@@ -1,0 +1,4 @@
+#name: addClass
+#group: mootools
+# --
+addClass(${1:"${2:className}"})

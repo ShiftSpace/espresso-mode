@@ -1,0 +1,4 @@
+#name: removeClass
+#group: mootools
+# --
+removeClass(${1:"${2:className}"})
