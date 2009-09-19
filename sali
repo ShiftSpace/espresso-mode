@@ -1,0 +1,4 @@
+#name: SSApp.login
+#group: shiftspace
+# --
+SSApp.login(${1:user})

@@ -1,0 +1,4 @@
+#name: SSApp.delete
+#group: shiftspace
+# --
+SSApp['delete']('${1:type}', ${2:id})

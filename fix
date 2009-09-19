@@ -1,0 +1,10 @@
+#name: fixture
+#group: shiftspace
+# --
+${1:name}: $fixture(
+  "${2:doc string}",
+  function()
+  {
+    $0
+  }
+)${3:,}

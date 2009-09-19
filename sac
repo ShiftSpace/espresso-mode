@@ -1,0 +1,4 @@
+#name: SSApp.confirm
+#group: shiftspace
+# --
+SSApp.confirm($0)

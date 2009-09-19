@@ -1,0 +1,4 @@
+#name: SSApp.logout
+#group: shiftspace
+# --
+SSApp.logout(${1:user})

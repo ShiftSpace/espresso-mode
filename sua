@@ -1,0 +1,4 @@
+#name: SSUnit.assert
+#group: shiftspace
+# --
+SSUnit.assert(${1:a});

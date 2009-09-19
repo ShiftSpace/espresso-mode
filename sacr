@@ -1,0 +1,4 @@
+#name: SSApp.create
+#group: shiftspace
+# --
+SSApp.create('${1:type}', ${2:data})
