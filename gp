@@ -1,4 +1,4 @@
-#name: getParent
+#name: getProperty
 #group: mootools
 # --
-getParent(${1:"${2:selector}"})
+getProperty(${1:"${2:selector}"})

@@ -1,0 +1,15 @@
+#name: setter/getter
+#group: shiftspace
+# --
+${1:name}: function()
+{
+  return this.__$1;
+},
+
+
+set${1:$(capitalize text)}: function($1)
+{
+  this.__$1 = $1;
+}${2:,}
+$0
+
