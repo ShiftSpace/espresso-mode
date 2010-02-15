@@ -1,4 +1,4 @@
 #name: addEvent
 #group: mootools
 # --
-addEvent("${1:type}", $0)
+addEvent("${1:type}", $0);

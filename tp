@@ -1,0 +1,4 @@
+#name: this.parent()
+#group: mootools
+# --
+this.parent(${1:args});$0
